@@ -21,6 +21,9 @@ This project is created as part of a test project to learn Processing. It offers
 - Implementing Monte Carlo methods in Processing.
 - Visualizing random point generation and its relation to Pi approximation.
 
+## Demonstration
+<img src="Demo.gif" alt="Demonstration GIF" width="400"/>
+Demonstration of the first 1000 frames
 
 ## Resources
 
