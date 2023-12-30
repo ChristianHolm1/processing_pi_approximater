@@ -24,6 +24,9 @@ This project is created as part of a test project to learn Processing. It offers
 ## Demonstration
 <img src="Demo.gif" alt="Demonstration GIF" width="400"/>
 Demonstration of the first 1000 frames
+<br><br>
+<img src="approximated-pi.png" alt="Pi apporximation" width="400"/>
+Pi apporximated using the version 2 (more colorful)
 
 ## Resources
 
